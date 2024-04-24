@@ -1,0 +1,35 @@
+body {
+    background-color:beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    text-shadow: 0 0 4px #ff0040;
+}   
+.header {
+    top: 2px;
+    left: 2px;
+    right: 2px;
+    height: 21px;
+    z-index: 2;
+    background-color: pink;
+    color:white;
+    text-shadow: 0 0 0px #ff0040;
+}
+.mainbody {
+    text-align: center;
+    list-style-position: inside;
+}
+.listalign {
+    text-align: left;
+    display: inline-block;
+}
+.newtext {
+    color:#fb4e79;
+    text-shadow: 0 0 1px #fe6e92;
+}
+.footer {
+    text-shadow: 0 0 0px #ff0040;
+    color:rgb(250, 93, 93)
+}
+.tableauPlaceholder {
+    left: 55px;
+}
